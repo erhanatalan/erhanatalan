@@ -27,11 +27,11 @@ I prefer react for front-end and python for back-end.
 ## 🚴 Skills
 
 <p>
-<a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="agile" width="100" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/python-logo-1.png" alt="python"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/react-logo.png" alt="react"  height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/css3-logo.png" alt="html-css-js"  height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="agile" width="100" height="96"/> </a> 
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/python-logo-1.png" alt="python"  height="96"/> </a> 
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/react-logo.png" alt="react"  height="96"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png"  height="96"/> </a> 
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/css3-logo.png" alt="html-css-js"  height="96"/> </a> 
 <a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/javascript-logo.png" alt="html-css-js"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-logo-1.png" alt="Linux"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/git-logo.png" alt="git"  height="48"/> </a> 
