@@ -27,24 +27,22 @@ I prefer react for front-end and python for back-end.
 ## 🚴 Skills
 
 <p>
-<a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="agile" width="100" height="96"/> </a> 
+<a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="agile" height="96"/> </a> 
 <a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/python-logo-1.png" alt="python"  height="96"/> </a> 
 <a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/react-logo.png" alt="react"  height="96"/> </a>
 <a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png"  height="96"/> </a> 
 <a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/css3-logo.png" alt="html-css-js"  height="96"/> </a> 
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/javascript-logo.png" alt="html-css-js"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-logo-1.png" alt="Linux"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/git-logo.png" alt="git"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/jira-logo.png" alt="Jira"  height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/node-sass-logo.png" alt="Jira"  height="48"/> </a>
-<a href="#" target="_blank">
-<img src="https://brandslogos.com/wp-content/uploads/images/django-community-logo.png" alt="django"  height="48"/>
-</a>
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/flask-logo.png" alt="flask"  height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/mysql-logo-1.png" alt="mysql"  height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/javascript-logo.png" alt="html-css-js"  height="96"/> </a> 
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-logo-1.png" alt="Linux"  height="96"/> </a> 
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/git-logo.png" alt="git"  height="96"/> </a> 
+<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" height="96"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="96"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/jira-logo.png" alt="Jira"  height="96"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/node-sass-logo.png" alt="Jira"  height="96"/> </a>
+<a href="#" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/django-community-logo.png" alt="django"  height="96"/></a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/flask-logo.png" alt="flask"  height="96"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/mysql-logo-1.png" alt="mysql"  height="96"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="96"/> </a>
 </p>
 
 ## 📊 Statistics
