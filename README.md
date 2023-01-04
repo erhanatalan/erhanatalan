@@ -28,20 +28,20 @@ I prefer react for front-end and python for back-end.
 
 <p>
 <a href="#" target="_blank"> <img src="./img/agile.png" alt="agile" width="100" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="./img/python.png" alt="python"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="./img/react-logo.png" alt="react"  height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/python-logo-1.png" alt="python"  height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/react-logo.png" alt="react"  height="48"/> </a>
 <a href="#" target="_blank"> <img src="./img/html5-js-css3.png" alt="html-css-js"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="./img/linux-logo-1.png" alt="Linux"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="./img/git-logo.png" alt="git"  height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-logo-1.png" alt="Linux"  height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/git-logo.png" alt="git"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
-<a href="#" target="_blank"> <img src="./img/jira-logo.png" alt="Jira"  height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/jira-logo.png" alt="Jira"  height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/node-sass-logo.png" alt="Jira"  height="48"/> </a>
 <a href="#" target="_blank">
-<img src="./img/django-logo.png" alt="django"  height="48"/>
+<img src="https://brandslogos.com/wp-content/uploads/images/django-community-logo.png" alt="django"  height="48"/>
 </a>
-<a href="#" target="_blank"> <img src="./img/flask-logo.png" alt="flask"  height="48"/> </a>
-<a href="#" target="_blank"> <img src="./img/mysql-logo.png" alt="mysql"  height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/flask-logo.png" alt="flask"  height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/mysql-logo-1.png" alt="mysql"  height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
 </p>
 
