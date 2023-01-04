@@ -47,10 +47,10 @@ I prefer react for front-end and python for back-end.
 
 ## 📊 Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erhanatalan&theme=radical)
+
+
 <p align="left">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erhanatalan&theme=compact)  
-  
 <img src="https://github-readme-stats.vercel.app/api?username=erhanatalan&theme=compact" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhanatalan&theme=chartreuse-dark&layout=compact" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user==erhanatalan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
