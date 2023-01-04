@@ -36,11 +36,12 @@ I prefer react for front-end and python for back-end.
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
 <a href="#" target="_blank"> <img src="./img/jira-logo.png" alt="Jira"  height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/node-sass-logo.png" alt="Jira"  height="48"/> </a>
 <a href="#" target="_blank">
 <img src="./img/django-logo.png" alt="django"  height="48"/>
 </a>
 <a href="#" target="_blank"> <img src="./img/flask-logo.png" alt="flask"  height="48"/> </a>
-<a href="#" target="_blank"> <img src="./img/mysql-logo.png" alt="flask"  height="48"/> </a>
+<a href="#" target="_blank"> <img src="./img/mysql-logo.png" alt="mysql"  height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
 </p>
 
