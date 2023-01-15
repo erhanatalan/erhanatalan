@@ -10,6 +10,7 @@
 <a href="https://github.com/erhanatalan" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a>
 
 <!-- <p align="center">  </p> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### What I'm using ? 🛠
 
@@ -22,6 +23,8 @@ I prefer react for front-end and python for back-end.
 - 💬 Ask me about anything that you want to learn via LinkedIn
 
 - You can reach me via Linkedin: <a href="https://www.linkedin.com/in/erhanatalan/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center">:rocket:Technical Skills</h2>
 <div>
@@ -55,7 +58,11 @@ I prefer react for front-end and python for back-end.
     <img src="https://brandslogos.com/wp-content/uploads/images/mysql-logo-1.png" alt="mysql"  height="96"/>
     <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="96"/>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
+<br> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 📊 Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erhanatalan&theme=radical)
