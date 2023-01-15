@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erhanatalan&label=Profile%20views&color=0e75b6&style=flat" alt="erhanatalan" /> </p>
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Erhan+;Welcome+to+my+Github+profile;I'm+Full-Stack+Developer;)](https://git.io/typing-svg)
 
