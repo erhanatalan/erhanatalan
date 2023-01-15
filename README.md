@@ -70,6 +70,4 @@ I prefer react for front-end and python for back-end.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanatalan&theme=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erhanatalan&theme=dark&show_icons=true)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user==erhanatalan&theme=chartreuse-dark&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=erhanatalan&theme=chartreuse-dark&layout=compact)
