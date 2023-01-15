@@ -68,6 +68,6 @@ I prefer react for front-end and python for back-end.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erhanatalan&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanatalan&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanatalan&theme=codeSTACKr)
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user==erhanatalan&theme=chartreuse-dark&layout=compact)
