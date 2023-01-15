@@ -63,7 +63,8 @@ I prefer react for front-end and python for back-end.
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <br> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## 📊 Statistics
+  
+  ### Statistics 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erhanatalan&theme=radical)
 
