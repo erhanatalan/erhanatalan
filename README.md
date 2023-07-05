@@ -28,7 +28,7 @@ I prefer react for front-end and python for back-end.
 
 <h2 align="center">:rocket:Technical Skills</h2>
 <div>
-    <img src="./img/agile.png" alt="agile" height="96"/>
+    <img src="img/agile.png" alt="agile" height="96"/>
     <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png"  height="96"/> 
     <img src="https://brandslogos.com/wp-content/uploads/images/css3-logo.png" alt="html-css-js"  width="90"/> 
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" height="96" alt="javascript" />
